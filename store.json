@@ -44,6 +44,17 @@
       "minimumOS": "15.0",
       "sizeBytes": 9017632,
       "urlScheme": "mystoreapp4"
+    },
+    {
+      "name": "نرخی دراو",
+      "bundleId": "com.abdulla.luncherapp",
+      "version": "1.4.0 (6)",
+      "description": "",
+      "iconUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.abdulla.luncherapp/icon.png?v=1.4.0-6",
+      "manifestUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.abdulla.luncherapp/manifest.plist",
+      "minimumOS": "15.0",
+      "sizeBytes": 7602368,
+      "urlScheme": "mystoreapp1"
     }
   ]
 }
