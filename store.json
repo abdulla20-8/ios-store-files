@@ -20,6 +20,16 @@
       "manifestUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.videoDownload/manifest.plist",
       "minimumOS": "15.0",
       "sizeBytes": 10085839
+    },
+    {
+      "name": "Brsima",
+      "bundleId": "com.example.brsima",
+      "version": "1.0.0 (1)",
+      "description": "",
+      "iconUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.brsima/icon.png?v=1.0.0-1",
+      "manifestUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.brsima/manifest.plist",
+      "minimumOS": "15.0",
+      "sizeBytes": 14113804
     }
   ]
 }
