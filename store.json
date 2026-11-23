@@ -2,14 +2,14 @@
   "name": "ستۆرەکەم",
   "apps": [
     {
-      "name": "Calculator",
+      "name": "نرخی دراو",
       "bundleId": "com.example.luncherIpa",
-      "version": "1.2.0 (4)",
-      "description": "ژمێرەر",
-      "iconUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.luncherIpa/icon.png?v=1.2.0-4",
+      "version": "1.3.0 (5)",
+      "description": "نرخی دراو",
+      "iconUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.luncherIpa/icon.png?v=1.3.0-5",
       "manifestUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.luncherIpa/manifest.plist",
       "minimumOS": "15.0",
-      "sizeBytes": 7410731,
+      "sizeBytes": 7597543,
       "urlScheme": "mystoreapp1"
     },
     {
