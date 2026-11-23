@@ -1,4 +1,15 @@
 {
   "name": "ستۆرەکەم",
-  "apps": []
+  "apps": [
+    {
+      "name": "ستۆرەکەم",
+      "bundleId": "com.example.luncherIpa",
+      "version": "1.0.0 (1)",
+      "description": "ستۆرە تایبەتەکەم — ئەپەکانم لێرەوە دادەمەزرێنم.",
+      "iconUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.luncherIpa/icon.png?v=1.0.0-1",
+      "manifestUrl": "https://abdulla20-8.github.io/ios-store-files/apps/com.example.luncherIpa/manifest.plist",
+      "minimumOS": "15.0",
+      "sizeBytes": 7098484
+    }
+  ]
 }
